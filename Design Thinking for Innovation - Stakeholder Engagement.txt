@@ -44,7 +44,168 @@ Should it be done?
 
 			PROMOTE EARLIER AND MORE FREQUENT STAKEHOLDER ENGAGEMENT
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Using Stakeholder maps
+------------------------
+		UNDERSTAND WHO YOU ARE DESIGNING FOR
+
+
+* Stakeholder mapping
+---------------------
+Focus on people rather than end solution
+
+		VISUAL REPRESENTATION OF KEY PEOPLE AND LINKS
+
+		IDENTIFY ALL STAKEHOLDERS IN SYSTEM AND RELATIONSHIPS
+
+		THE FIRST ITERATION OF THE STAKEHOLDER MAP IS USUALLY A HYPOTHESIS
+
+		IDENTIFY GAPS IN KNOWLEDGE SYSTEM
+
+		GAIN ALIGNMENT AMONG YOUR TEAM AND CHALLENGE BIASES
+
+		CLARIFY THE INFLUENCE OF DIFFERENT STAKEHOLDERS
+
+		ENSURE YOU DESIGN FOR THE RIGHT PEOPLE
+
+		DISTINGUISH BETWEEN INTERNAL AND EXTERNAL STAKEHOLDERS
+
+		CONNECTING DESIGN APPROACH TO PEOPLE FROM START
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Conducting Knowns and Unknown Sessions
+----------------------------------------
+		WORKING AS A TEAM
+
+		DIFFERENT EXPERIENCES, VIEWPOINTS, KNOWLEDGE
+
+		CHALLENGE PRECONCEPTIONS
+
+
+Focus research questions, consider approach, outline gaps in knowledge, figure out next steps
+
+1) Identify topic or stakeholder group
+
+2) Give each participant pen and 2 colors sticky notes
+
+3) Have each team member write knowns and unknowns using different colored sticky notes for each
+
+4) Each member should write only one fact on each of the sticky notes
+
+5) Place sticky notes on a central wall or board shared with all participants
+
+6) Group by suject matter so that you have an assortment of knowns and unknowns for each area
+
+7) Working as a team, review the groupings, come up with names for the groups
+
+8) Prioritize themes and explore how to turn unknowns into knowns
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Job Aid: Knowns and Unknowns
+------------------------------
+
+* Job Aid: Knowns and Unknowns
+------------------------------
+Knowns and Unknowns is a tool that helps reveal shared knowns and unknowns about a particular topic or stakeholder group through the act of collaborative externalization.
+
+To carry out a Knowns and Unknowns session:
+
+1) Gather a team of diverse individuals and identify a topic or stakeholder group to focus on.
+
+2) Give each team member a pen and two different colors of sticky notes.
+
+3) Ask each team member to use one color sticky note to write down what they know about the subject and use the other color sticky note to write down the things they don't know or would 
+like to know more about. They should write one fact per note. Have them spend five to ten minutes individually writing down their knowns and unknowns.
+
+4) Place the sticky notes on a central board or wall so they are shared with the whole team.
+
+5) Group the sticky notes by subject matter rather than color.
+
+6) Review the groupings and give them names.
+
+7) Prioritize the groupings that are most important to your design challenge and consider ways to turn unknowns into knowns.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Experience-based Design Thinking Research Tools
+-------------------------------------------------
+
+* Design Thinking Tools
+-----------------------
+
+. Immersive research
+--------------------
+Provides you with first-hand experience.
+
+Walk a mile in their shoes.
+
+Uncover unanticipated insights.
+
+Challenge biases.
+
+Develop and increase empathy through direct experience.
+
+Choose opportunities that allow you to immerse youself in their world.
+
+Form a detailed picture of their experience.
+
+View stakeholders views through their eyes rather than personal lens.
+
+Document your experiences.
+
+
+
+. Fly on the wall observations
+------------------------------
+Observe stakeholders in context.
+
+View stakeholders' world through your own lens.
+
+Provides unobtrusive view of behaviors in usual contexts.
+
+Deepen your knowledge through observation of natural behavior.
+
+Identify and understand feelings without experiencing them.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Interaction-based Design Thinking Research Tools
+--------------------------------------------------
+
+
+
+
+
+
+
 			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
